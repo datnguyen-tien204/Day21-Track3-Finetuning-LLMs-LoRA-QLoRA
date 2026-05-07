@@ -1,11 +1,3 @@
----
-license: mit
-language:
-- vi
-base_model:
-- Qwen/Qwen3.5-4B
-- Qwen/Qwen2.5-3B-Instruct
----
 # Lab 21 — LoRA / QLoRA Fine-tuning Report
 
 **Họ tên:** Nguyễn Tiến Đạt
